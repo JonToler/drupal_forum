@@ -1,0 +1,35 @@
+.section #name-and-slogan {
+  font-family: 'Comic Sans MS',Cursive;
+  font-style: italic;
+  text-align: center;
+  margin-right: 147px;
+}
+
+#name-and-slogan #site-slogan {
+  background-color: #298c99;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+}
+
+h2 a {
+  font-family: 'Palatino Linotype',Palatino,Serif;
+}
+
+#main-wrapper #main {
+  background-color: #NaNNaNNaN;
+}
+
+#header .section {
+  margin-right: 94px;
+}
+
+a img {
+  color: #e30000;
+  border-top-style: groove;
+  border-right-style: groove;
+  border-bottom-style: groove;
+  border-left-style: groove;
+}
+
