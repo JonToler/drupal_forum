@@ -11,14 +11,6 @@
   border-right-style: solid;
   border-bottom-style: solid;
   border-left-style: solid;
-  padding-left: 77px;
-  padding-right: 113px;
-  border-top-width: 13px;
-  border-top-color: #612861;
-  border-right-color: #612861;
-  border-bottom-color: #612861;
-  border-left-color: #612861;
-  background-image: url(/sites/default/files/sweaver/sweaver_image_3.gif);
 }
 
 h2 a {
@@ -31,7 +23,6 @@ h2 a {
 
 #header .section {
   margin-right: 94px;
-  background-position: 0% 100%;
   background-image: url(/sites/default/files/sweaver/sweaver_image_3.gif);
 }
 
@@ -41,9 +32,5 @@ a img {
   border-right-style: groove;
   border-bottom-style: groove;
   border-left-style: groove;
-}
-
-a span {
-  background-color: #995499;
 }
 
